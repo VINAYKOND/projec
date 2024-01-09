@@ -1,0 +1,330 @@
+.head{
+    position: relative;
+    background-color: beige;
+    width: 75%;
+    height: 635px;
+    left: 240px;
+    top: 30px;
+}
+.HAPPY{
+    position: relative;
+    width: 30%;
+    height: 606px;
+    background-color: plum;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.HAPPY h1{
+    position: relative;
+    font-size: 20px;
+    color: lightslategrey;
+}
+.HAPPY img{
+    position: relative;
+    height: 40px;
+    width: 40px;
+}
+.HAPPY h2{
+    position: relative;
+    left: 60px;
+    top: -60px;
+}
+.digital{
+    position: relative;
+    top: -450px;
+    left: 30px;
+}
+.digital img{
+    position: relative;
+    height: 40px;
+    width: 40px;
+}
+.digital h2{
+    position: relative;
+    left: 60px;
+    top: -60px;
+}
+.content h3{
+    position: relative;
+    font-size: 20px;
+    color: lightslategrey;
+    top: -550px;
+    padding-left: 30px;
+}
+.content img{
+    position: relative;
+    height: 40px;
+    width: 40px;
+    top: -500px;
+    left: -150px;
+}
+.content h2{
+    position: relative;
+    left: 90px;
+    top: -560px;
+}
+.Next{
+    position: relative;
+    top: -1250px;
+    padding: 50px;
+}
+.Next h1{
+    position: relative;
+}
+.Next h2{
+    position: relative;
+    left: 150px;
+    top: -55px;
+}
+.Next h3{
+    position: relative;
+    top: -50px;
+}
+.Next h4{
+    position: relative;
+    left: 150px;
+    top: -93px;
+}
+.Next h5{
+    position: relative;
+    top: -100px;
+}
+.Next h6{
+    position: relative;
+    left: 150px;
+    top: -145px;
+}
+.Next a{
+    position: relative;
+    top: -160px;
+}
+.Next p{
+    position: relative;
+    left: 150px;
+    top: -200px;
+}
+.FEATURES{
+    position: relative;
+    top: -2050px;
+    left: 400px;
+}
+.FEATURES h1{
+    position: relative;
+    font-size: 25px;
+    font-weight: 600;
+}
+.FEATURES img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.FEATURES h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.FEATURES p{
+    position: relative;
+    left: 80px;
+    top: -100px;
+    font-size: 22px;
+    width: 23%;
+}
+.GraphQL{
+    position: relative;
+    top: -2260px;
+    left: 750px;
+}
+.GraphQL img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.GraphQL h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.GraphQL p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Images{
+    position: relative;
+    top: -2350px;
+    left: 400px;
+}
+.Images img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Images h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Images p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Video{
+    position: relative;
+    top: -2560px;
+    left: 750px;
+}
+.Video img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Video h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Video p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Multi{
+    position: relative;
+    top: -2650px;
+    left: 400px;
+}
+.Multi img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Multi h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Multi p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Dynamic{
+    position: relative;
+    top: -2860px;
+    left: 750px;
+}
+.Dynamic img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Dynamic h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Dynamic p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Content{
+    position: relative;
+    top: -2950px;
+    left: 400px;
+}
+.Content img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Content h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Content p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Workflows{
+    position: relative;
+    top: -3160px;
+    left: 750px;
+}
+.Workflows img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Workflows h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Workflows p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Real{
+    position: relative;
+    top: -3250px;
+    left: 400px;
+}
+.Real img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Real h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Real p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}
+.Structured{
+    position: relative;
+    top: -3460px;
+    left: 750px;
+}
+.Structured img{
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+.Structured h2{
+    position: relative;
+    left: 80px;
+    top: -80px;
+}
+.Structured p{
+    position: relative;
+    left: 80px;
+    top: -105px;
+    font-size: 22px;
+    width: 23%;
+}

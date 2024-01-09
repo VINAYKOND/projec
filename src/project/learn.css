@@ -1,0 +1,109 @@
+.hea{
+    position: relative;
+    background-color: beige;
+    width: 36%;
+    height: 350px;
+    left: 500px;
+    top: 30px;
+    padding: 50px;
+}
+.Documentation{
+    position: relative;
+}
+.Documentation h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Documentation h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    top: -15px;
+}
+.Blog{
+    position: relative;
+    left: 0px;
+    top: -0px;
+}
+.Blog h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Blog h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    top: -15px;
+}
+.Product{
+    position: relative;
+    left: 0px;
+    top: px;
+}
+.Product h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Product h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 50%;
+    top: -15px;
+}
+.Community{
+    position: relative;
+    left: 320px;
+    top: -340px;
+}
+.Community h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Community h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    top: -15px;
+}
+.Slack{
+    position: relative;
+    left: 320px;
+    top: -340px;
+}
+.Slack h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Slack h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    top: -15px;
+}
+.Support{
+    position: relative;
+    left: 320px;
+    top: -340px;
+}
+.Support h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Support h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 40%;
+    top: -15px;
+}

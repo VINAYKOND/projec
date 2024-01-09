@@ -1,0 +1,138 @@
+.heade{
+    position: relative;
+    background-color: beige;
+    width: 55%;
+    height: 500px;
+    left: 350px;
+    top: 30px;
+}
+.QUOTES{
+    position: relative;
+    width: 26%;
+    height: 470px;
+    background-color: plum;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.QUOTES h1{
+    position: relative;
+    color: lightslategrey;
+    font-size: 20px;
+}
+.QUOTES h2{
+    position: relative;
+    font-size: 24px;
+    font-weight: 600;
+}
+.SUCCESS{
+    position: relative;
+    top: -470px;
+    left: 280px;
+}
+.SUCCESS h1{
+    position: relative;
+    font-size: 20px;
+    color: lightslategrey;
+}
+.SUCCESS h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+}
+.SUCCESS p{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+    top: -20px;
+}
+.Shopify{
+    position: relative;
+    top: -120px;
+    left: 280px;
+}
+.Shopify h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Shopify p{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+    top: -20px;
+}
+.Hashicorp{
+    position: relative;
+    top: -120px;
+    left: 0px;
+}
+.Hashicorp h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Hashicorp p{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+    top: -20px;
+}
+.Chilly{
+    position: relative;
+    top: -240px;
+    left: 280px;
+}
+.Chilly h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Chilly p{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+    top: -20px;
+}
+.Matter{
+    position: relative;
+    top: -260px;
+    left: 0px;
+}
+.Matter h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Matter p{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+    top: -20px;
+}
+.Dovetail{
+    position: relative;
+    top: -380px;
+    left: 280px;
+}
+.Dovetail h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Dovetail p{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 30%;
+    top: -20px;
+}
+.Dovetail h3{
+    position: relative;
+    left: -150px;
+    font-size: 22px;
+}

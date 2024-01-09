@@ -1,0 +1,73 @@
+.he{
+    position: relative;
+    background-color: beige;
+    width: 36%;
+    height: 220px;
+    left: 600px;
+    top: 30px;
+    padding: 50px;
+}
+.Starter{
+    position: relative;
+}
+.Starter h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Starter h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 50%;
+    top: -15px;
+}
+.Plugins{
+    position: relative;
+}
+.Plugins h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Plugins h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 50%;
+    top: -15px;
+}
+.Hosting{
+    position: relative;
+    top: -225px;
+    left: 300px;
+}
+.Hosting h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Hosting h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 50%;
+    top: -15px;
+}
+.Enterprise{
+    position: relative;
+    top: -225px;
+    left: 300px;
+}
+.Enterprise h1{
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Enterprise h2{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    width: 50%;
+    top: -15px;
+}

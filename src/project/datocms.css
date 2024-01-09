@@ -1,0 +1,512 @@
+.header{
+    position: relative;
+}
+.HEADLESS{
+    position: relative;
+}
+.HEADLESS h2{
+    position: relative;
+    text-align: center;
+    color: lightslategrey;
+    padding-top: 100px;
+}
+.HEADLESS h1{
+    position: relative;
+    text-align: center;
+    font-size: 90px;
+    font-weight: 700;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.HEADLESS p{
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.HEADLESS button{
+    position: relative;
+    height: 80px;
+    width: 300px;
+    left: 600px;
+    margin-top: 60px;
+    background-color: orangered;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.HEADLESS h5{
+    position: relative;
+    left: 610px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.HEADLESS h6{
+    position: relative;
+    left: 800px;
+    top: -72px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.HEADLESS img{
+    position: relative;
+    height: 100px;
+    width: 200px;
+    padding: 26px;
+}
+.TECHNOLOGY{
+    position: relative;
+    width: 50%;
+    padding-left: 30px;
+    padding-top: 300px;
+}
+.TECHNOLOGY h2{
+    position: relative;
+    color: dimgrey;
+    font-weight: 600;
+}
+.TECHNOLOGY h1{
+    position: relative;
+    font-size: 80px;
+    font-weight: 600;
+    width: 70%;
+}
+.TECHNOLOGY p{
+    position: relative;
+    font-size: 25px;
+    font-weight: 300;
+    width: 88%;
+}
+.For{
+    position: relative;
+    left: 780px;
+    top: -800px;
+    width: 35%;
+    background-color: aliceblue;
+    padding: 80px;
+    height: 820px;
+}
+.For img{
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+.For h1{
+    position: relative;
+    font-size: 40px;
+    font-weight: 600;
+    top: -130px;
+    left: 130px;
+}
+.For p{
+    position: relative;
+    font-size: 22px;
+    font-weight: 300;
+    width: 70%;
+    top: -120px;
+    left: 130px;
+}
+.For button{
+    position: relative;
+    height: 30px;
+    width: 150px;
+    top: -120px;
+    left: 130px;
+}
+.Are{
+    position: relative;
+}
+.Are h2{
+    position: relative;
+    top: -600px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+    padding-left: 280px;
+    padding-right: 280px;
+}
+.Are h3{
+    position: relative;
+    color: dimgrey;
+    text-align: center;
+    font-size: 30px;
+    top: -580px;
+    font-weight: 500;
+}
+.content{
+    position: relative;
+    height: 800px;
+}
+.content img{
+    position: relative;
+    top: -400px;
+    padding-left: 180px;
+}
+.content h1{
+    position: relative;
+    top: -700px;
+    left: 800px;
+    width: 50%;
+    font-size: 60px;
+}
+.content h5{
+    position: relative;
+    top: -800px;
+    left: 800px;
+    width: 50%;
+    font-size: 60px;
+    color: orangered;
+}
+.content p{
+    position: relative;
+    top: -850px;
+    left: 800px;
+    width: 40%;
+    font-size: 26px;
+}
+.content h4{
+    position: relative;
+    top: -830px;
+    left: 830px;
+    width: 50%;
+    font-size: 26px;
+    font-weight: 500;
+}
+.you{
+    position: relative;
+    height: 800px;
+}
+.you img{
+    position: relative;
+    top: -400px;
+    padding-left: 180px;
+}
+.you h1{
+    position: relative;
+    top: -700px;
+    left: 800px;
+    width: 50%;
+    font-size: 60px;
+}
+.you h5{
+    position: relative;
+    top: -800px;
+    left: 800px;
+    width: 50%;
+    font-size: 60px;
+    color: orangered;
+}
+.you p{
+    position: relative;
+    top: -850px;
+    left: 800px;
+    width: 40%;
+    font-size: 26px;
+}
+.you h4{
+    position: relative;
+    top: -830px;
+    left: 830px;
+    width: 50%;
+    font-size: 26px;
+    font-weight: 500;
+}
+.your{
+    position: relative;
+    height: 800px;
+}
+.your img{
+    position: relative;
+    top: -400px;
+    padding-left: 180px;
+}
+.your h1{
+    position: relative;
+    top: -700px;
+    left: 800px;
+    width: 50%;
+    font-size: 60px;
+}
+.your h5{
+    position: relative;
+    top: -800px;
+    left: 800px;
+    width: 50%;
+    font-size: 60px;
+    color: orangered;
+}
+.your p{
+    position: relative;
+    top: -850px;
+    left: 800px;
+    width: 40%;
+    font-size: 26px;
+}
+.your h4{
+    position: relative;
+    top: -830px;
+    left: 830px;
+    width: 50%;
+    font-size: 26px;
+    font-weight: 500;
+}
+.How{
+    position: relative;
+    top: -300px;
+    height: 400px;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.How h1{
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+    padding-left: 00px;
+    padding-right: 00px;
+}
+.of{
+    position: relative;
+    background-color: aliceblue;
+    top: -300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 450px;
+}
+.off{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 26%;
+}
+.off h1{
+    position: relative;
+    font-size: 80px;
+    left: 50px;
+}
+.off h2{
+    position: relative;
+    font-size: 40px;
+    top: -50px;
+}
+.off p{
+    position: relative;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    left: -30px;
+    top: -50px;
+}
+.offf{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 26%;
+    left: 400px;
+    top: -450px;
+}
+.offf h1{
+    position: relative;
+    font-size: 80px;
+    left: 50px;
+}
+.offf h2{
+    position: relative;
+    font-size: 35px;
+    top: -50px;
+}
+.offf p{
+    position: relative;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    left: -30px;
+    top: -50px;
+}
+.offff{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 26%;
+    left: 800px;
+    top: -910px;
+}
+.offff h1{
+    position: relative;
+    font-size: 80px;
+    left: 50px;
+}
+.offff h2{
+    position: relative;
+    font-size: 40px;
+    top: -50px;
+}
+.offff p{
+    position: relative;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+    left: -30px;
+    top: -50px;
+}
+.Here{
+    position: relative;
+}
+.Here h1{
+    position: relative;
+    font-size: 80px;
+    font-weight: 600;
+    top: -50px;
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.Here img{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.Here button{
+    position: relative;
+    height: 250px;
+    width: 800px;
+    left: 300px;
+}
+.Manage{
+    position: relative;
+    padding-left: 200px;
+    width: 40%;
+}
+.Manage img{
+    position: relative;
+    top: 100px;
+}
+.Manage h2{
+    position: relative;
+    color: darkslategrey;
+    left: 600px;
+    font-size: 28px;
+    font-weight: 600;
+    top: -180px;
+}
+.Manage h1{
+    position: relative;
+    left: 600px;
+    top: -180px;
+    font-size: 52px;
+}
+.Manage p{
+    position: relative;
+    left: 600px;
+    top: -180px;
+    font-size: 24px;
+}
+.Manage h4{
+    position: relative;
+    left: 630px;
+    top: -160px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Polestar{
+    position: relative;
+    background-color: antiquewhite;
+    padding-left: 50px;
+    padding-top: 150px;
+    height: 1300px;
+}
+.Read{
+    position: relative;
+}
+.Read h3{
+    position: relative;
+    font-size: 30px;
+    font-weight: 600;
+}
+.Read h2{
+    position: relative;
+    left: 500px;
+    top: -100px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.Read h1{
+    position: relative;
+    left: 500px;
+    top: -100px;
+    font-size: 80px;
+    font-weight: 800;
+    width: 55%;
+}
+.Read button{
+    position: relative;
+    left: 500px;
+    top: -100px;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+}
+.onninen{
+    position: relative;
+    width: 28%;
+    top: -90px;
+}
+.onninen h4{
+    position: relative;
+    font-size: 50px;
+}
+.onninen p{
+    position: relative;
+    font-size: 40px;
+}
+.onninen button{
+    position: relative;
+    font-size: 20px;
+}
+.OBERLO{
+    position: relative;
+    width: 28%;
+    left: 480px;
+    top: -630px;
+}
+.OBERLO h4{
+    position: relative;
+    font-size: 50px;
+}
+.OBERLO p{
+    position: relative;
+    font-size: 40px;
+}
+.OBERLO button{
+    position: relative;
+    font-size: 20px;
+}
+.DOVETAIL{
+    position: relative;
+    width: 28%;
+    left: 980px;
+    top: -1050px;
+}
+.DOVETAIL h4{
+    position: relative;
+    font-size: 50px;
+}
+.DOVETAIL p{
+    position: relative;
+    font-size: 40px;
+}
+.DOVETAIL button{
+    position: relative;
+    font-size: 20px;
+}
